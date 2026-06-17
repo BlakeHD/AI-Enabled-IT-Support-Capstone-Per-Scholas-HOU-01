@@ -1,4 +1,4 @@
-
+[← Back to Repository Home](../README.md)
 
 # Phase 1 – Environment & Baseline
 # Introduction
@@ -455,3 +455,5 @@ nslookup migration.local
 During Phase 1, I successfully established the baseline enterprise environment required for the Migration & Stabilization capstone. This phase included virtual machine deployment, operating system installation, network configuration, Active Directory implementation, user and group management, file services configuration, and system validation.
 
 All required components were documented and verified to ensure the environment is stable, functional, and prepared for future migration activities. With the baseline environment established and validated, I am ready to proceed to Phase 2: Migration Event.
+
+[Next: Phase 2 – Migration Event →](Phase2.md)
