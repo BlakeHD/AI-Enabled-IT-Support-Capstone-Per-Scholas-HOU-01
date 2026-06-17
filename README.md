@@ -3,27 +3,24 @@
 ## Table of Contents
 
 * [Project Overview](#project-overview)
-* [Business Scenario](#business-scenario)
+* [Business Application](#business-application)
 * [Project Objectives](#project-objectives)
-* [Environment](#environment)
+* [Environment](#the-virtual-environment)
 * [Technologies Used](#technologies-used)
 * [Project Phases](#project-phases)
 * [Key Skills Demonstrated](#key-skills-demonstrated)
 * [My Troubleshooting Methodology](#my-troubleshooting-methodology)
 * [Lessons Learned](#lessons-learned)
-* [Future Improvements](#future-improvements)
 ---
 # Project Overview
 
-This repository documents my IT Support Capstone project, Migration & Stabilization, completed within a virtualized Windows Server environment using VirtualBox.
-
-The project simulates a real-world enterprise migration event in which infrastructure changes introduce operational issues that require investigation, remediation, and validation. Throughout the project, I was responsible for building the environment, executing migration activities, troubleshooting incidents, restoring services, validating outcomes, and documenting the entire process.
+This repository documents my Per Scholas AI Enabled IT Support Capstone project. The project simulates a real-world enterprise migration event in which infrastructure changes introduce operational issues that require investigation, remediation, and validation. Throughout the project, I was responsible for building a virtual environment, executing migration activities, troubleshooting incidents, restoring services, validating outcomes, and documenting the entire process.
 
 This repository serves as both a technical record of the project and a portfolio piece demonstrating my system administration, troubleshooting, and technical documentation skills.
 
 ---
 
-# Business Scenario
+# Business Application 
 
 Organizations frequently undergo infrastructure changes that can introduce unexpected disruptions to users and business operations.
 
@@ -44,17 +41,17 @@ In this scenario, I assumed the role of an IT Support Specialist responsible for
 
 ---
 
-# Environment
+# The Virtual Environment
 
 ## Infrastructure
 
 | Component       | Description                              |
 | --------------- | ---------------------------------------- |
 | Hypervisor      | VirtualBox                               |
-| Server OS       | Windows Server                           |
-| Client OS       | Windows Client                           |
+| Server OS       | Windows Server 2022                      |
+| Client OS       | Windows 11                               |
 | Network Type    | Internal Virtual Network                 |
-| Domain Services | Active Directory Domain Services (AD DS) |
+| Domain Services | Active Directory Domain Services  |
 
 ## Network Configuration
 
@@ -150,43 +147,29 @@ Communicate findings, lessons learned, and project outcomes.
 
 ## Server Deployment
 
-* Installed Windows Server
-* Configured hostname
-* Assigned static IP address
-* Installed server roles
+* TBD
 
 ## Client Deployment
 
-* Installed Windows Client
-* Configured networking
-* Connected to domain
+* TBD
+
 
 ## Domain Configuration
 
-* Installed Active Directory
-* Promoted Domain Controller
-* Configured DNS services
+* TBD
 
 ## User Management
 
-* Created organizational units
-* Created user accounts
-* Managed group memberships
-* Assigned permissions
+* TBD
 
 ## Troubleshooting
 
-* Investigated user incidents
-* Collected evidence
-* Identified root causes
-* Implemented corrective actions
+* TBD
+
 
 ## Validation Testing
 
-* Connectivity testing
-* Authentication testing
-* Resource access testing
-* Service validation
+* TBD
 
 ---
 
@@ -217,44 +200,11 @@ Confirm resolution using testing and verification procedures.
 
 * Windows Server administration
 * Active Directory management
-* DNS and DHCP configuration
-* PowerShell fundamentals
 
-## Troubleshooting Experience
+## Troubleshooting 
 
-* Structured incident response
-* Root cause analysis
-* Validation and testing procedures
+* TBD
 
-## Documentation Experience
+## Documentation 
 
-* Technical reporting
-* Change documentation
-* Evidence collection
-* Professional communication
-
----
-
-# Future Improvements
-
-If I continue developing this environment, I would focus on the following enhancements:
-
-## Monitoring
-
-* Implement centralized monitoring
-* Configure alerting mechanisms
-
-## Automation
-
-* Expand PowerShell automation
-* Standardize deployment scripts
-
-## Security
-
-* Implement least-privilege principles
-* Strengthen Group Policy controls
-* Enhance auditing and logging
-
----
-
-> This repository serves as a demonstration of enterprise IT support practices, troubleshooting methodologies, system administration skills, and technical documentation standards developed through a migration and stabilization capstone project.
+* TBD
