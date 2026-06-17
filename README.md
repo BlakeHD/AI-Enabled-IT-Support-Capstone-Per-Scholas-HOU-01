@@ -1,4 +1,4 @@
-# AI - Enabled IT Support Capstone: Migration & Stabilization
+# AI Enabled IT Support Capstone: Migration & Stabilization
 
 ## Table of Contents
 
