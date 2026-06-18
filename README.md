@@ -148,24 +148,7 @@ Communicate findings, lessons learned, and project outcomes.
 * Technical report
 * Executive summary
 * Final presentation
-
 ---
-# Lessons Learned and Skills Demonstrated
-| Technical Domain                    | Skills Demonstrated                                                                            |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Windows Server Administration       | Server deployment, hostname configuration, static IP addressing, server role installation      |
-| Windows Client Administration       | Client deployment, workstation configuration, domain integration                               |
-| Active Directory                    | Domain Controller deployment, domain administration, user and group management                 |
-| DNS Services                        | DNS configuration, name resolution, domain service support                                     |
-| Identity & Access Management        | User provisioning, group membership management, permission assignment                          |
-| File Services                       | SMB share configuration, access control, resource management                                   |
-| Troubleshooting & Incident Response | Incident investigation, evidence collection, root cause analysis, corrective action planning   |
-| System Validation                   | Connectivity testing, authentication testing, service verification, resource access validation |
-| PowerShell Administration           | System configuration, diagnostics, validation, administrative automation                       |
-| Virtualization                      | Oracle VirtualBox deployment, virtual machine configuration, environment management            |
-| Technical Documentation             | Change tracking, incident documentation, migration reporting, validation reporting             |
----
-
 # My Troubleshooting Methodology
 
 The following process was used throughout the project:
@@ -187,3 +170,18 @@ Implement corrective actions based on findings.
 Confirm resolution using testing and verification procedures.
 
 ---
+# Lessons Learned and Skills Demonstrated
+| Technical Domain                    | Skills Demonstrated                                                                            |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Windows Server Administration       | Server deployment, hostname configuration, static IP addressing, server role installation      |
+| Windows Client Administration       | Client deployment, workstation configuration, domain integration                               |
+| Active Directory                    | Domain Controller deployment, domain administration, user and group management                 |
+| DNS Services                        | DNS configuration, name resolution, domain service support                                     |
+| Identity & Access Management        | User provisioning, group membership management, permission assignment                          |
+| File Services                       | SMB share configuration, access control, resource management                                   |
+| Troubleshooting & Incident Response | Incident investigation, evidence collection, root cause analysis, corrective action planning   |
+| System Validation                   | Connectivity testing, authentication testing, service verification, resource access validation |
+| PowerShell Administration           | System configuration, diagnostics, validation, administrative automation                       |
+| Virtualization                      | Oracle VirtualBox deployment, virtual machine configuration, environment management            |
+| Technical Documentation             | Change tracking, incident documentation, migration reporting, validation reporting             |
+
